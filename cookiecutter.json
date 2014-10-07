@@ -1,0 +1,11 @@
+{
+    "top_level_directory":"$HOME",
+    "analysis_name":"test",
+    "allocation_name":"hpc_test02",
+    "phylip_file":"alignment.aln",
+    "analysis_nodes":"4",
+    "analysis_ppn":"16",
+    "number_of_runs":"4",
+    "number_of_generations":"1e6",
+    "length_of_alignment":"UNK"
+}

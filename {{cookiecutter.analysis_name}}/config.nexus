@@ -1,0 +1,7 @@
+#NEXUS
+
+begin run;
+ numruns {{cookiecutter.number_of_runs}}
+ numgen {{cookiecutter.number_of_generations}}
+ numCoupledChains 2
+end;
